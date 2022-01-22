@@ -1,7 +1,7 @@
 {
 
     "OWNER_ID":"734918355303006299",
-    "BOT_TOKEN": "OTAwMTMyOTMyMjEwMDA4MDg0.YW84Hg.PJ-JfMX-cxE7TRoNkD5rB6Rd5hc",
+    "BOT_TOKEN": "",
     "tenorAPI":"ZEEELJXAFQBN",
     "DEFAULT_PREFIX":"n!",
     "mongoPass": "mongodb+srv://Nate:oi4bSPBBo4tRJXOs@n-bot.uy9u9.mongodb.net/N-Bot?retryWrites=true&w=majority",
