@@ -95,4 +95,4 @@ module.exports = {
 			return button.reply({ content: `<@${opponent.id}> won!` });
 		}
 	},
-};
+};  

@@ -26,7 +26,7 @@ module.exports = {
       )
       .addField(
         "About N-Bot",
-        "N-Bot is an open-source multi-purpose discord bot with features like moderation, music, logging, welcomer and so much more!\nYou can find the link to the [GitHub Repo Here](https://github.com/natesplanet/n-bot)"
+        "N-Bot is an open-source multi-purpose discord bot with features like moderation, music, logging, welcomer and so much more!It was originally from a bot template from GitHub. I was a contributer for the bot template but the original owner is Simpleboy353, he helped me learn more about coding and how to make a discord bot. \nYou can find the link to the [GitHub Template Here](https://github.com/Simpleboy353/REAPER-2.0) \nYou can  also find the link to the [GitHub Repo for N-Bot Here](https://github.com/natesplanet/n-bot)"
       )
       .addField(
         "Some Useful Links",

@@ -6,7 +6,7 @@ module.exports = {
   botPerms: ["ATTACH_FILES"],
   run: async(client, message, args) => {
     if (!args[0]) {
-    return message.channel.send(`\`Usage: ${client.prefix}clyde <msg>\``)
+    return message.channel.send(`Usage: ${client.prefix}clyde <msg>`)
     }
     let clydeMessage = args.join(' ');
 

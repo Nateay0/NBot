@@ -1,6 +1,6 @@
 {
   "name": "reaper-2.0",
-  "version": "v7.1.5-stable",
+  "version": "v7.3.0-stable",
   "description": "An Open Source discord bot with lots of features",
   "main": "index.js",
   "engines": {
@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@discord-player/downloader": "^3.0.1",
-    "@discordjs/builders": "^0.8.0",
+    "@discordjs/builders": "^0.9.0",
     "@discordjs/opus": "^0.7.0",
     "@discordjs/voice": "^0.7.5",
     "@iamtraction/google-translate": "^1.1.2",
@@ -24,7 +24,7 @@
     "booru": "^2.3.2",
     "canvas": "^2.8.0",
     "canvas-constructor": "^5.0.1",
-    "chalk": "^4.1.1",
+    "chalk": "^4.1.0",
     "colornames": "^1.1.1",
     "common-tags": "^1.8.0",
     "config.json": "0.0.4",
@@ -41,6 +41,7 @@
     "djs-games": "^2.0.11",
     "dotenv": "^10.0.0",
     "enmap": "^5.8.7",
+    "express": "^4.17.2",
     "ffmpeg": "^0.0.4",
     "ffmpeg-static": "^4.4.0",
     "figlet": "^1.5.0",
@@ -58,7 +59,7 @@
     "mongoose": "^5.10.7",
     "ms": "^2.1.2",
     "nekos.life": "^2.0.7",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.2.0",
     "node-superfetch": "^0.2.0",
     "os": "^0.1.1",
     "os-utils": "0.0.14",
@@ -69,7 +70,7 @@
     "request-promise-native": "^1.0.9",
     "run": "^1.4.0",
     "simple-youtube-api": "^5.2.1",
-    "simply-djs": "^2.0.0",
+    "simply-djs": "^2.5.2",
     "snekfetch": "^4.0.4",
     "superagent": "^6.1.0",
     "twemoji-parser": "^13.0.0",
@@ -80,7 +81,7 @@
     "ytdl-core-discord": "^1.2.4"
   },
   "devDependencies": {
-    "node": "16.13.0"
+    "node": "^16.10.0"
   },
   "repository": {
     "type": "git",
